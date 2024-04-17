@@ -7,8 +7,9 @@ This tutorial outlines the implementation of a Honeypot using an Azure virtual m
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Sentinel)
-- Remote Desktop
+- Microsoft Azure (Virtual Machines)
+- Microsoft Sentinel (SIEM)
+- Log Analytics
 - PowerShell
 
 <h2>Operating Systems Used </h2>
